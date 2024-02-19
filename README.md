@@ -1,0 +1,1 @@
+The Odin Recipe consists of three Ethiopian traditional dishes. Each dish includes a description of the food, its ingredients, and the steps needed to cook it.
